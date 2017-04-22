@@ -6,3 +6,17 @@ body {
 a {
   color: #00B7FF;
 }
+
+.col-50 {
+  float: left;
+  width: 50%;
+}
+
+.col-30 {
+  float: left;
+  width: 30%;
+}
+
+.about-us {
+  color: red;
+}
